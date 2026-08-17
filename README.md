@@ -1,20 +1,50 @@
-# Certifications & Professional Credentials
+<div align="center">
 
-A curated collection of my **industrial experience, internships, technical certifications, language qualifications, achievements, and professional training**.
+# 🎓 My Certifications & Professional Credentials
 
-This repository serves as a centralized record of certifications and credentials that complement my academic background in **Electrical & Electronics Engineering**.
+### A Curated Record of Learning, Experience & Achievements.
+
+A professional collection of my <strong>industrial experience, internships, technical certifications,
+language qualifications, academic activities, and achievements</strong> as an Electrical & Electronics Engineering student.
+
+<br>
+
+<strong>Electrical & Electronics Engineering</strong> •
+<strong>Embedded Systems</strong> •
+<strong>Electric Vehicles</strong> •
+<strong>IoT</strong> •
+<strong>Industry 4.0</strong> •
+<strong>MATLAB</strong> •
+<strong>Japanese Language</strong>
+
+<br><br>
+
+![Industrial Experience](https://img.shields.io/badge/Industrial%20Experience-1-1f6feb?style=for-the-badge)
+![Internships](https://img.shields.io/badge/Internships-3-8b5cf6?style=for-the-badge)
+![Technical Certifications](https://img.shields.io/badge/Technical%20Certifications-4-00a67e?style=for-the-badge)
+![Language Certifications](https://img.shields.io/badge/Language%20Certifications-2-f59e0b?style=for-the-badge)
+![Achievements](https://img.shields.io/badge/Achievements-1-e11d48?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Leadership%20%26%20Activities-3-6366f1?style=for-the-badge)
+
+<br>
+
+![Certificates](https://img.shields.io/badge/Certificates-14-111827?style=for-the-badge)
+![PDF](https://img.shields.io/badge/PDF-Available-dc2626?style=for-the-badge)
+![PNG](https://img.shields.io/badge/PNG-Preview-2563eb?style=for-the-badge)
+
+</div>
 
 ---
 
-## Contents
+## 📑 Contents
 
-* [Industrial Experience](#-industrial-experience)
-* [Internships](#-internships)
-* [Technical Certifications & Training](#-technical-certifications--training)
-* [Language Certifications](#-language-certifications)
-* [Achievements](#-achievements)
-* [Leadership & Technical Activities](#-leadership--technical-activities)
-* [Certificate Formats](#-certificate-formats)
+- [⚡ Industrial Experience](#-industrial-experience)
+- [🔧 Internships](#-internships)
+- [🧠 Technical Certifications & Training](#-technical-certifications--training)
+- [🇯🇵 Language Certifications](#-language-certifications)
+- [🏆 Achievements](#-achievements)
+- [👥 Leadership & Technical Activities](#-leadership--technical-activities)
+- [📂 Certificate Formats](#-certificate-formats)
 
 ---
 
