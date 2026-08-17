@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 Certifications & Professional Credentials
+# Certifications & Professional Credentials
 
 ---
 
@@ -27,14 +27,14 @@ language qualifications, academic activities, and achievements** as an Electrica
 
 ---
 
-## 📑 Contents
+## Contents
 
-- ⚡ [Industrial Experience](#-industrial-experience)
-- 🔧 [Internships](#-internships)
-- 🧠 [Technical Certifications & Training](#-technical-certifications--training)
-- 🇯🇵 [Language Certifications](#-language-certifications)
-- 🏆 [Achievements](#-achievements)
-- 👥 [Leadership & Technical Activities](#-leadership--technical-activities)
+- [Industrial Experience](#-industrial-experience)
+- [Internships](#-internships)
+- [Technical Certifications & Training](#-technical-certifications--training)
+- [Language Certifications](#-language-certifications)
+- [Achievements](#-achievements)
+- [Leadership & Technical Activities](#-leadership--technical-activities)
 
 ---
 
