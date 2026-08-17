@@ -40,7 +40,7 @@ language qualifications, academic activities, and achievements** as an Electrica
 
 ## Industrial Experience
 
-### Nepal Electricity Authority — Trainee
+### Nepal Electricity Authority - Trainee
 
 **Bharatpur Distribution Centre | June 2022 – December 2022**
 
@@ -53,7 +53,7 @@ Six-month industrial training experience with **Nepal Electricity Authority (NEA
 
 ## Internships
 
-### Emertxe — Embedded Systems Internship
+### Emertxe - Embedded Systems Internship
 
 **Project:** Real-Time Electric Vehicle Dashboard & ADAS Warning System
 **Duration:** June 2026 – July 2026
@@ -65,7 +65,7 @@ Hands-on internship focused on **Embedded Systems**, practical implementation, a
 
 ---
 
-### Emertxe — Internet of Things (IoT) Internship
+### Emertxe - Internet of Things (IoT) Internship
 
 **Duration:** March 2026 – April 2026
 
@@ -81,7 +81,7 @@ Hands-on exposure to:
 
 ---
 
-### SkillDzire — Electric Vehicle Internship
+### SkillDzire - Electric Vehicle Internship
 
 **Duration:** May 2025 – July 2025
 
@@ -94,7 +94,7 @@ Short-term internship focused on **Electric Vehicle technology** as part of my E
 
 ## Technical Certifications & Training
 
-### NPTEL — Introduction to Industry 4.0 and Industrial Internet of Things
+### NPTEL - Introduction to Industry 4.0 and Industrial Internet of Things
 
 **Score: 85% | Top 5%**
 
@@ -105,7 +105,7 @@ A 12-week NPTEL course covering **Industry 4.0 and Industrial IoT concepts**, wi
 
 ---
 
-### APSSDC — Embedded Systems
+### APSSDC - Embedded Systems
 
 **Skill Development Program | February 2025 – March 2025**
 
@@ -136,7 +136,7 @@ Completed **100%** of the Simulink Onramp self-paced training course provided by
 
 ## 🇯🇵 Language Certifications
 
-### Japanese-Language Proficiency Test — N5
+### Japanese-Language Proficiency Test - N5
 
 Successfully passed **JLPT N5**, demonstrating foundational Japanese-language proficiency.
 
@@ -148,7 +148,7 @@ Successfully passed **JLPT N5**, demonstrating foundational Japanese-language pr
 
 ---
 
-### Cambridge English Empower — B2 Level
+### Cambridge English Empower - B2 Level
 
 Successfully completed the **Cambridge English Empower B2 Level Course**.
 
@@ -159,7 +159,7 @@ Successfully completed the **Cambridge English Empower B2 Level Course**.
 
 ## Achievements
 
-### VEDA 2K25 — 2nd Prize, Poster Presentation
+### VEDA 2K25 - 2nd Prize, Poster Presentation
 
 Awarded **2nd Prize** in the Poster Presentation event at **VEDA 2K25**, a National Level Student Symposium.
 
@@ -170,7 +170,7 @@ Awarded **2nd Prize** in the Poster Presentation event at **VEDA 2K25**, a Natio
 
 ## Leadership & Technical Activities
 
-### VEDA 2K25 — Event Coordinator
+### VEDA 2K25 - Event Coordinator
 
 Served as a **Coordinator** for VEDA 2K25, a National Level Student Symposium held at Aditya University.
 
@@ -179,7 +179,7 @@ Served as a **Coordinator** for VEDA 2K25, a National Level Student Symposium he
 
 ---
 
-### VEDA 2K24 — Paper Presentation
+### VEDA 2K24 - Paper Presentation
 
 Participated in the **Paper Presentation** event at VEDA 2K24, a National Level Technical Symposium.
 
@@ -193,7 +193,7 @@ Participated in the **Paper Presentation** event at VEDA 2K24, a National Level 
 Participated in the **Pashupati Science & Engineering Expo**, contributing to the development and presentation of a project.
 
 [View Certificate](06_Leadership_and_Technical_Activities/Pashupati_Science_Engineering_Expo.png)
-📄 [Download PDF](06_Leadership_and_Technical_Activities/Pashupati_Science_Engineering_Expo.pdf)
+[Download PDF](06_Leadership_and_Technical_Activities/Pashupati_Science_Engineering_Expo.pdf)
 
 ---
 
