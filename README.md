@@ -1,36 +1,27 @@
 <div align="center">
 
-# 🎓 My Certifications & Professional Credentials
+# 🎓 Certifications & Professional Credentials
 
-### A Curated Record of Learning, Experience & Achievements.
+---
 
-A professional collection of my <strong>industrial experience, internships, technical certifications,
-language qualifications, academic activities, and achievements</strong> as an Electrical & Electronics Engineering student.
+### *A Curated Record of Learning, Experience & Achievement.*
 
+A professional collection of my **industrial experience, internships, technical certifications,
+language qualifications, academic activities, and achievements** as an Electrical & Electronics Engineering student.
 <br>
-
-<strong>Electrical & Electronics Engineering</strong> •
-<strong>Embedded Systems</strong> •
-<strong>Electric Vehicles</strong> •
-<strong>IoT</strong> •
-<strong>Industry 4.0</strong> •
-<strong>MATLAB</strong> •
-<strong>Japanese Language</strong>
-
+**Electrical & Electronics Engineering • Embedded Systems • Electric Vehicles • IoT • Industry 4.0 • MATLAB • Japanese Language**
 <br><br>
-
-![Industrial Experience](https://img.shields.io/badge/Industrial%20Experience-1-1f6feb?style=for-the-badge)
-![Internships](https://img.shields.io/badge/Internships-3-8b5cf6?style=for-the-badge)
-![Technical Certifications](https://img.shields.io/badge/Technical%20Certifications-4-00a67e?style=for-the-badge)
-![Language Certifications](https://img.shields.io/badge/Language%20Certifications-2-f59e0b?style=for-the-badge)
-![Achievements](https://img.shields.io/badge/Achievements-1-e11d48?style=for-the-badge)
-![Leadership](https://img.shields.io/badge/Leadership%20%26%20Activities-3-6366f1?style=for-the-badge)
-
+![Industrial Experience](https://img.shields.io/badge/INDUSTRIAL%20EXPERIENCE-1-2563EB?style=for-the-badge&labelColor=30343B&logoColor=white)
+![Internships](https://img.shields.io/badge/INTERNSHIPS-3-7C5CFC?style=for-the-badge&labelColor=30343B&logoColor=white)
+![Technical Certifications](https://img.shields.io/badge/TECHNICAL%20CERTIFICATIONS-4-16A085?style=for-the-badge&labelColor=30343B&logoColor=white)
+![Language Certifications](https://img.shields.io/badge/LANGUAGE%20CERTIFICATIONS-2-E0A11A?style=for-the-badge&labelColor=30343B&logoColor=white)
+![Achievements](https://img.shields.io/badge/ACHIEVEMENTS-1-D94A67?style=for-the-badge&labelColor=30343B&logoColor=white)
 <br>
-
-![Certificates](https://img.shields.io/badge/Certificates-14-111827?style=for-the-badge)
-![PDF](https://img.shields.io/badge/PDF-Available-dc2626?style=for-the-badge)
-![PNG](https://img.shields.io/badge/PNG-Preview-2563eb?style=for-the-badge)
+![Leadership and Activities](https://img.shields.io/badge/LEADERSHIP%20%26%20ACTIVITIES-3-5B6FE8?style=for-the-badge&labelColor=30343B&logoColor=white)
+<br><br>
+![Certificates](https://img.shields.io/badge/CERTIFICATES-14-1F2937?style=for-the-badge&labelColor=30343B)
+![PDF](https://img.shields.io/badge/PDF-DOWNLOAD-C94B4B?style=for-the-badge&labelColor=30343B)
+![PNG](https://img.shields.io/badge/PNG-PREVIEW-3B82D0?style=for-the-badge&labelColor=30343B)
 
 </div>
 
@@ -38,13 +29,12 @@ language qualifications, academic activities, and achievements</strong> as an El
 
 ## 📑 Contents
 
-- [⚡ Industrial Experience](#-industrial-experience)
-- [🔧 Internships](#-internships)
-- [🧠 Technical Certifications & Training](#-technical-certifications--training)
-- [🇯🇵 Language Certifications](#-language-certifications)
-- [🏆 Achievements](#-achievements)
-- [👥 Leadership & Technical Activities](#-leadership--technical-activities)
-- [📂 Certificate Formats](#-certificate-formats)
+- ⚡ [Industrial Experience](#-industrial-experience)
+- 🔧 [Internships](#-internships)
+- 🧠 [Technical Certifications & Training](#-technical-certifications--training)
+- 🇯🇵 [Language Certifications](#-language-certifications)
+- 🏆 [Achievements](#-achievements)
+- 👥 [Leadership & Technical Activities](#-leadership--technical-activities)
 
 ---
 
